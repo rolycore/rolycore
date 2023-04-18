@@ -24,7 +24,7 @@
 <a href="https://codesandbox.com/rolycore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="rolycore" height="30" width="40" /></a>
 <a href="https://fb.com/shalomsolutiontech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shalomsolutiontech" height="30" width="40" /></a>
 <a href="https://instagram.com/rolandosalinasoficial/?igshid=zddkntzintm%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rolandosalinasoficial/?igshid=zddkntzintm%3d" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCID4Z0snP5aEESKWhC65ebQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@rolycore" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/channel/ucid4z0snp5aeeskwhc65ebq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/ucid4z0snp5aeeskwhc65ebq" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rolycore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rolycore" height="30" width="40" /></a>
 <a href="https://discord.gg/Rsalinas0890$$#1413" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Rsalinas0890$$#1413" height="30" width="40" /></a>
 </p>
@@ -37,4 +37,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rolycore&show_icons=true&locale=en" alt="rolycore" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rolycore&" alt="rolycore" /></p>
+
 <br><em>!Thank you for visiting my GitHub profile!</em>
