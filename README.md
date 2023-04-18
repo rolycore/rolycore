@@ -2,15 +2,19 @@
 
 <!--
 **rolycore/rolycore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Rolando A. Salinas C.]
+sobre mi
+¡Hola! Soy Rolando, un programador interesado en el desarrollo de nuevas tecnologías y el desarrollo de software. Me apasiona aprender, enseñar, y he trabajado en varios proyectos relacionados con Back-End y Front-End me especializo en el lenguaje de Java.
+Proyectos destacados
+Aquí te presento algunos de mis proyectos más destacados:
+•	Sistemadeventas:  es un sistema de  venta desarrollado en Java con Springboot
+•	Challenges-Oracle-ONE:  son distintos desafios del curso de Oracle One
+•	fuente_java: algunos códigos fuentes (Varios) en Java
+Puedes encontrar más detalles sobre estos y otros proyectos en mi perfil de GitHub.
+Áreas de especialización
+•	Java
+•	Python
+•	C++
+•	JavaScript
+contacto
+Puedes contactarme a través de mi correo electrónico rolycore@gmail.com o seguirme en Instagram @rolandosalinasoficial. ¡Gracias por visitar mi perfil de GitHub!
