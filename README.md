@@ -38,4 +38,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rolycore&" alt="rolycore" /></p>
 
+![Snake animation](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
+
 <br><em>!Thank you for visiting my GitHub profile!</em>
