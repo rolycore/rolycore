@@ -1,8 +1,4 @@
-### Hi there 👋
-
-<!--
-**rolycore/rolycore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[Rolando A. Salinas C.]
+👋[Rolando A. Salinas C.]
 sobre mi
 ¡Hola! Soy Rolando, un programador interesado en el desarrollo de nuevas tecnologías y el desarrollo de software. Me apasiona aprender, enseñar, y he trabajado en varios proyectos relacionados con Back-End y Front-End me especializo en el lenguaje de Java.
 Proyectos destacados
