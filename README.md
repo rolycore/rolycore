@@ -1,3 +1,5 @@
+<img src="src/se realizan - shalomsolutiontech - sin numero.jpg">
+<hr>
 <h1 align="center">Hi <img src="./src/wave.gif" width="30px">, I'm Rolando Salinas</h1>
 <h3 align="center">Passionate programmer for technology and software development. With over 10 years of experience in designing, implementing, and maintaining web and mobile applications. Specialized in programming languages such as Java, Python, and JavaScript, as well as in handling frameworks such as Spring and React Native. Always looking for new opportunities to continue growing professionally and adding value to innovative projects.</h3>
 
