@@ -21,7 +21,7 @@
 - 📫 How to reach me **rolycore@gmail.com**
  </details>
  <h3 align="center">My software company</h3>
- <img src="src/logo.jpg">
+ <img src="src/logo.jpg"width="100px" height="100px">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/rolycore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rolycore" height="30" width="40" /></a>
