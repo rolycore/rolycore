@@ -19,6 +19,7 @@
 - 💬 Ask me about **React, Bootstrap, Angular**
 
 - 📫 How to reach me **rolycore@gmail.com**
+- 🌎 My web site [https://www.shalomsolutiontech.com](https://www.shalomsolutiontech.com)
  </details>
  <h3 align="center">My software company</h3>
  <div align="center">
